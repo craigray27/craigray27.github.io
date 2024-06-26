@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 雷志远
+title: Zhiyuan Lei
 
 # Name pronunciation (optional)
 name_pronunciation: Craig Ray
 
 # Full name (for SEO)
-first_name: 志远
-last_name: 雷
+first_name: Zhiyuan
+last_name: Lei
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Analyser
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
