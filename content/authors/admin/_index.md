@@ -53,7 +53,7 @@ education:
   - area: BSc Math And Applied Mathematics
     institution: 上海财经大学
     date_start: 2017-09-01
-    date_end: 2021-06-31
+    date_end: 2021-07-01
     summary: |
       GPA: 3.2/4.0
       
