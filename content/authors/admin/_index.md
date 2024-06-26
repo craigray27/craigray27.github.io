@@ -98,9 +98,9 @@ skills:
         description: '使用C++搭建简单的底层代码。曾使用C++模拟可观测宇宙各天体运行轨迹数据（基于万有引力定律导出的常微分方程，不考虑极端天体）。'
         percent: 80
         icon: code-bracket
-        button:
-          text: 'Read Thesis'
-          url: 'https://example.com'
+    button:
+        text: 'Read Thesis'
+        url: 'https://example.com'
       - name: MATLAB
         description: '使用Matlab进行数学建模，主要集中于偏微分方程数值运算、大规模稀疏矩阵相关求解'
         percent: 85
@@ -131,13 +131,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: 2020 高教社杯全国大学生数学建模竞赛获奖名单
+    certificate_url: http://www.mcm.edu.cn/upload_cn/node/593/ejsYC2sWca14e3b34ac748d4862444af0c44d1fd.pdf
+    date: '2020-11-23'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+       使用热传导方程，热辐射方程对加工工件内部温度变化进行建模，依据建模的数值结果绘出温度曲线，由于工件的特性，对工件在升温室、冷却室的最优时间长度进行求解，并由此来决定最优的传送带运行速度，实现数字化管控。
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
