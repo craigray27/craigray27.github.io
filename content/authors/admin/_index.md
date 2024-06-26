@@ -128,31 +128,19 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 2020 高教社杯全国大学生数学建模竞赛获奖名单
+  - title: '2020年高教社杯全国大学生数学建模竞赛本科组一等奖'
     certificate_url: http://www.mcm.edu.cn/upload_cn/node/593/ejsYC2sWca14e3b34ac748d4862444af0c44d1fd.pdf
-    date: '2020-11-23'
-    awarder: Coursera
-    icon: coursera
+    date: '2019-11-23'
+    awarder: 中国工业与应用数学学会
     summary: |
        使用热传导方程，热辐射方程对加工工件内部温度变化进行建模，依据建模的数值结果绘出温度曲线，由于工件的特性，对工件在升温室、冷却室的最优时间长度进行求解，并由此来决定最优的传送带运行速度，实现数字化管控。
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: '2018年高教社杯全国大学生数学建模竞赛上海赛区二等奖，2019年高教社杯全国大学生数学建模竞赛上海赛区三等奖'
+    date: '2019-07-01'
+    awarder: 中国工业与应用数学学会
+  - title: '上海财经大学数学学院优秀毕业论文'
+    date: '2021-07-01'
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      以彭实戈的倒向随机微分方程为基础，利用半参数、非参数方法对倒向随机微分方程进行非参数参数估计，并研究了它在蝶式期权上的数值实验效果。并研究了其在上证50指数期权价格预估上的应用。
 ---
 
 ## About Me
