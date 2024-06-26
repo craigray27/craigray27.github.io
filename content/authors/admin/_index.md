@@ -3,11 +3,11 @@
 title: 雷志远
 
 # Name pronunciation (optional)
-name_pronunciation: LEI ZHIYUAN
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Zhiyuan
-last_name: Lei
+first_name: Craig
+last_name: Ray
 
 # Is this the primary user of the site?
 superuser: true
