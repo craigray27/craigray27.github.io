@@ -37,7 +37,7 @@ profiles:
     
 interests:
   - Artificial Intelligence
-  - Hiking
+  - 徒步
   - 数学
 
 education:
@@ -46,7 +46,7 @@ education:
     date_start: 2021-09-01
     date_end: 2021-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      主要研究AI技术在金融最优化控制方向的应用以及图神经网络（GNN）在风险传染方向上的应用。在期间，与导师共同完成了图网络在银行金融拆借风险间的网络传染模型。
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -62,23 +62,23 @@ education:
       - Financial Stochastic Processes
       - Coding, Big Data, Machine Learning
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 数据分析组组长
+    company_name: 云南明博会计师事务所
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-07-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: 数量投资助理（实习）
+    company_name: 华夏基金管理有限公司（上海分公司）
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-03-01
+    date_end: 2021-06-30
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
