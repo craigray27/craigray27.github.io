@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Zhiyuan Lei
+title: 雷志远
 
 # Name pronunciation (optional)
-name_pronunciation: Craig Ray
+name_pronunciation: LEI ZHIYUAN
 
 # Full name (for SEO)
 first_name: Zhiyuan
