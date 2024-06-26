@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 雷志远
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Craig Ray
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 志远
+last_name: 雷
 
 # Status emoji
 status:
