@@ -9,10 +9,6 @@ name_pronunciation: LEI ZHIYUAN
 first_name: Zhiyuan
 last_name: Lei
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
