@@ -98,9 +98,6 @@ skills:
         description: '使用C++搭建简单的底层代码。曾使用C++模拟可观测宇宙各天体运行轨迹数据（基于万有引力定律导出的常微分方程，不考虑极端天体）。'
         percent: 80
         icon: code-bracket
-    button:
-        text: 'Read Thesis'
-        url: 'https://example.com'
       - name: MATLAB
         description: '使用Matlab进行数学建模，主要集中于偏微分方程数值运算、大规模稀疏矩阵相关求解'
         percent: 85
