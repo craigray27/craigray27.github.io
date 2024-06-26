@@ -101,7 +101,7 @@ skills:
       - name: MATLAB
         description: '使用Matlab进行数学建模，主要集中于偏微分方程数值运算、大规模稀疏矩阵相关求解'
         percent: 85
-        icon: circle-stack
+        icon: code-bracket
       - name: Hadoop，Spark
         description: '部署Hadoop，Spark分布式数据框架。使用Hadoop大数据框架进行存储，辅以Spark框架进行流运算并使用Pyspark进行机器学习。'
         percent: 60
@@ -114,6 +114,22 @@ skills:
         description: '使用R进行一些金融模型的参数估计，如CIR模型等'
         percent: 60
         icon: circle-stack
+ - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: 徒步
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: 骑行
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: 架子鼓
+        description: ''
+        percent: 80
+        icon: person-simple-walk
 
 languages:
   - name: English
@@ -134,13 +150,18 @@ awards:
     awarder: 中国工业与应用数学学会
     summary: |
        使用热传导方程，热辐射方程对加工工件内部温度变化进行建模，依据建模的数值结果绘出温度曲线，由于工件的特性，对工件在升温室、冷却室的最优时间长度进行求解，并由此来决定最优的传送带运行速度，实现数字化管控。
-  - title: '2018年高教社杯全国大学生数学建模竞赛上海赛区二等奖，2019年高教社杯全国大学生数学建模竞赛上海赛区三等奖'
-    date: '2019-07-01'
-    awarder: 中国工业与应用数学学会
   - title: '上海财经大学数学学院优秀毕业论文'
     date: '2021-07-01'
     summary: |
       以彭实戈的倒向随机微分方程为基础，利用半参数、非参数方法对倒向随机微分方程进行非参数参数估计，并研究了它在蝶式期权上的数值实验效果。并研究了其在上证50指数期权价格预估上的应用。
+  - title: '2019年美国大学生数学建模竞赛H奖'
+    date: '2019-02-28'
+    awarder: AMS
+    summary: |
+       使用Lasso，带正则项的Logistic模型，空间SLM模型对美国各州、郡的药物滥用数据进行建模，并分析影响药物滥用情况的特征，以及药物滥用情况在空间上的传播情况。数据量大致在70万上下。
+  - title: '2018年高教社杯全国大学生数学建模竞赛上海赛区二等奖，2019年高教社杯全国大学生数学建模竞赛上海赛区三等奖'
+    date: '2019-07-01'
+    awarder: 中国工业与应用数学学会
 ---
 
 ## About Me
