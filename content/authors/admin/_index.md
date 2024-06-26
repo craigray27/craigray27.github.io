@@ -50,7 +50,6 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-
   - area: BSc Math&Applied Mathematics
     institution: 上海财经大学
     date_start: 2017-09-06
