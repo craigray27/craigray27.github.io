@@ -44,7 +44,7 @@ education:
   - area: MSc Finance And Computing Mathematics
     institution: University Of Nottingham
     date_start: 2021-09-01
-    date_end: 2021-12-31
+    date_end: 2022-12-31
     summary: |
       主要研究AI技术在金融最优化控制方向的应用以及图神经网络（GNN）在风险传染方向上的应用。在期间，与导师共同完成了图网络在银行金融拆借风险间的网络传染模型。
     button:
@@ -70,7 +70,7 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 主要负责数据库（ORACLE）的搭建与日常运维
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: 数量投资助理（实习）
@@ -91,40 +91,39 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: '使用Python的Tensorflow, Pytorch等框架搭建AI；使用Pyspark进行大数据运算；利用Python爬虫进行数据爬取；使用Python进行数据清洗、数据比对、数学建模等。'
+        percent: 90
+        icon: code-bracket
+      - name: C++
+        description: '使用C++搭建简单的底层代码。曾使用C++模拟可观测宇宙各天体运行轨迹数据（基于万有引力定律导出的常微分方程，不考虑极端天体）。'
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+        button:
+          text: 'Read Thesis'
+          url: 'https://example.com'
+      - name: MATLAB
+        description: '使用Matlab进行数学建模，主要集中于偏微分方程数值运算、大规模稀疏矩阵相关求解'
+        percent: 85
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
+      - name: Hadoop，Spark
+        description: '部署Hadoop，Spark分布式数据框架。使用Hadoop大数据框架进行存储，辅以Spark框架进行流运算并使用Pyspark进行机器学习。'
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: circle-stack
+      - name: ORACLE，MySQL
+        description: '数据库部署，数据的简单清洗与比对'
+        percent: 60
+        icon: circle-stack
+      - name: R
+        description: '使用R进行一些金融模型的参数估计，如CIR模型等'
+        percent: 60
+        icon: circle-stack
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
+  - name: 中文
+    percent: 100
+  - name: Deutsch
     percent: 25
 
 # Awards.
