@@ -114,6 +114,20 @@ skills:
         description: '使用R进行一些金融模型的参数估计，如CIR模型等'
         percent: 60
         icon: circle-stack
+  - name: Hobbies
+    items:
+      - name: 徒步
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: 骑行
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: 架子鼓
+        description: ''
+        percent: 80
+        icon: person-simple-walk
 
 languages:
   - name: English
@@ -148,6 +162,4 @@ awards:
     awarder: 中国工业与应用数学学会
 ---
 
-## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
