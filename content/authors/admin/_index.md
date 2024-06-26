@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Analyser
+role: 数据分析师
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
