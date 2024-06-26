@@ -50,21 +50,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Math And Applied Mathematics
     institution: 上海财经大学
-    date_start: 2017-9-01
-    date_end: 2021-6-31
+    date_start: 2017-09-01
+    date_end: 2021-06-31
     summary: |
       GPA: 3.2/4.0
       
