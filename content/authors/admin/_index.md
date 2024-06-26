@@ -114,22 +114,6 @@ skills:
         description: '使用R进行一些金融模型的参数估计，如CIR模型等'
         percent: 60
         icon: circle-stack
- - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: 徒步
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: 骑行
-        description: ''
-        percent: 100
-        icon: person-simple-walk
-      - name: 架子鼓
-        description: ''
-        percent: 80
-        icon: person-simple-walk
 
 languages:
   - name: English
