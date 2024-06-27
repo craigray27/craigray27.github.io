@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "青海省失业保险基金精算模型"
 authors:
 - 雷志远
 author_notes:
@@ -17,7 +17,7 @@ doi: ""
 
 # Publication name and optional abbreviated publication name.
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 报告给出了对青海省2023年到2027年失业保险收支的精算模型。对青海省2023年到2027年全年地区生产总值、城镇就业人口年平均收入、城镇登记就业人口、总就业人口、失业保险金平均月发放金额、失业保险参保人数、失业保险金年领取人次、失业保险金每人平均领取月数、缴纳失业保险各类型企业缴费比例等重要参数进行数学建模。并最终给出了精算模型在2023年到2027年的预测结果。
 
 # Summary. An optional shortened abstract.
 summary: 使用随机分析、宏观经济模型对青海省失业保险基金2024年-2027年的收入、支出做出预测。
