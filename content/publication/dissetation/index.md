@@ -6,8 +6,8 @@ And Its Application In Neural Network'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhiyuan Lei
-  - Reuben O'dea
+  - 雷志远
+  - 王海军
 
 # Author notes (optional)
 author_notes:
@@ -26,10 +26,10 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 
-abstract:  Complex interbank networks are formed by inter-bank lending, payment and settlement, discount and guarantee. On the one hand, banks’ networks do provide channels for interbank exchanges. However, the exchange of the interbank liquidity assets also make banks in danger, the inter-bank lending behaviour become potential paths for risk contagion when defaults occur, and those defaults may cause a domino effect. Terefore, it is necessary to analyze the structure of the interbank network and mechanism of risk contagion. Consequently, I will concentrates on the characteristics of the structure of interbank network, the mechanism of interbank risk contagion and how to do the risk prediction in this report.
+abstract:  本文主要介绍了 N-WR 估计方法、LPR 估计方法、Jiang-Knight 方法与当漂移项有特殊结构时的估计方法，并给出了其在计算蝶式期权上的应用效果，对比各种估计方法的效果。最后通过倒向随机微分方程数值算法将估计结果与实际情况相互映证，以评估模型在期权定价中的实际应用。
 
 # Summary. An optional shortened abstract.
-summary: 使用带随机过程的SIRs模型模拟金融风险在银行间拆借网络上的传播情况，并使用GNN学习网络结构，提示风险聚集。
+summary: 使用非参数方法估计一般的倒向随机微分方程，并给出其在期权理论价格上的应用。
 
 tags:
   - Graph Neural Networks Models
