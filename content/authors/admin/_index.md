@@ -26,7 +26,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'eugray@hotmail.com'
+    url: 'mailto:eugray@hotmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/craigray27
@@ -53,9 +53,9 @@ education:
     summary: |
       GPA: 3.2/4.0
       
-      Courses included:
-      - Optimization
-      - Financial Stochastic Processes
+     核心课程:
+      - Optimization, Numerical Computation
+      - Financial Stochastic Processes，Econometrics
       - Coding, Big Data, Machine Learning
 work:
   - position: 数据分析组组长
@@ -65,10 +65,11 @@ work:
     date_start: 2023-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - 主要负责数据库（ORACLE）的搭建与日常运维
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Experience include:
+      - 从事数据分析相关工作，包括数据清洗、建模、可视化展示并撰写数据分析报告、数据入库等。
+      - 参与青海省失业保险基金收入、支出的
+      - 负责数据库（ORACLE）的搭建与日常运维，架构大数据系统Hadoop+Spark。
+      - 将自然语言模型（NLP，模型：word2Vec，LSTM）部署在LLama开源模型上，方便进行一些日常的办公操作、数据匹配。
   - position: 数量投资助理（实习）
     company_name: 华夏基金管理有限公司（上海分公司）
     company_url: ''
@@ -76,10 +77,10 @@ work:
     date_start: 2021-03-01
     date_end: 2021-06-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Experience include:
+      - 协助证券分析师收集锂电池相关行业、国债期权相关数据并撰写行业报告，期间曾独立完成绿色国债期权市场的调研报告。
+      - 协助基金经理更正、维护量化模型，期间参与协方差矩阵估计模型的更新（采用当时新的贝叶斯估计方法）。
+      - 协助基金经理维护客户。
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
