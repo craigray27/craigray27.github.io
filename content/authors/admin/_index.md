@@ -57,6 +57,9 @@ education:
       - Optimization, Numerical Computation
       - Financial Stochastic Processes, Econometrics
       - Coding, Big Data, Machine Learning
+      button:
+      text: 'Read Thesis'
+      url: /publication/dissetation/
 
 work:
   - position: 数据分析组组长
