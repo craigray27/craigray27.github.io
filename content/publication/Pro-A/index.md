@@ -31,7 +31,7 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 
-abstract: This report outlines an investigation into the use of Monte Carlo methods in financial option pricing and random number generators. Specifically, this report produces simulations for two types of call options, European call option and binary asset-or-nothing call option, using an analytical approach, a weak-Euler scheme and a Milstein scheme. A Monte Carlo method has been applied to the weak-Euler scheme to examine the option prices and delta values across various time points. The convergence rates of price and delta have been plotted and compared to the theoretical convergence rate. The results of numerical approximation.
+abstract: This report outlines an investigation into the use of Monte Carlo methods in financial option pricing and random number generators. Specifically, this report produces simulations for two types of call options, European call option and binary asset-or-nothing call option, using an analytical approach, a weak-Euler scheme and a Milstein scheme. A Monte Carlo method has been applied to the weak-Euler scheme to examine the option prices and delta values across various time points. The convergence rates of price and delta have been plotted and compared to the theoretical convergence rate.
 
 # Summary. An optional shortened abstract.
 summary: 使用Monte-Carlo法、PDE法给出标的资产对应期权价格，并验证了Monte-Carlo在多标的资产混合策略下的收敛性。
