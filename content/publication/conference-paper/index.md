@@ -26,7 +26,7 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 
-abstract: The Interbank market is an essential part of the modern financial system. Complex interbank
+abstract:The Interbank market is an essential part of the modern financial system. Complex interbank
 networks are formed by inter-bank lending, payment and settlement, discount and guarantee.
 On the one hand, banks’ networks do provide channels for interbank exchanges. However,
 the exchange of the interbank liquidity assets also make banks in danger, the inter-bank
