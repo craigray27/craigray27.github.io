@@ -31,13 +31,13 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 
-abstract:  Complex interbank networks are formed by inter-bank lending, payment and settlement, discount and guarantee. On the one hand, banks’ networks do provide channels for interbank exchanges. However, the exchange of the interbank liquidity assets also make banks in danger, the inter-bank lending behaviour become potential paths for risk contagion when defaults occur, and those defaults may cause a domino effect. Terefore, it is necessary to analyze the structure of the interbank network and mechanism of risk contagion. Consequently, I will concentrates on the characteristics of the structure of interbank network, the mechanism of interbank risk contagion and how to do the risk prediction in this report.
+abstract: This report outlines an investigation into the use of Monte Carlo methods in financial option pricing and random number generators. Specifically, this report produces simulations for two types of call options, European call option and binary asset-or-nothing call option, using an analytical approach, a weak-Euler scheme and a Milstein scheme. A Monte Carlo method has been applied to the weak-Euler scheme to examine the option prices and delta values across various time points. The convergence rates of price and delta have been plotted and compared to the theoretical convergence rate. The results of numerical approximation.
 
 # Summary. An optional shortened abstract.
-summary: 使用带随机过程的SIRs模型模拟金融风险在银行间拆借网络上的传播情况，并使用GNN学习网络结构，提示风险聚集。
+summary: 使用Monte-Carlo法、PDE法给出标的资产对应期权价格，并验证了Monte-Carlo在多标的资产混合策略下的收敛性。
 
 tags:
-  - Graph Neural Networks Models
+  - Option Price
 
 # Display this page in the Featured widget?
 featured: true
