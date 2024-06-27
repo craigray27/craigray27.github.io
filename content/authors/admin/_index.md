@@ -37,15 +37,6 @@ interests:
   - 数学
 
 education:
-  - area: MSc Finance And Computing Mathematics
-    institution: University Of Nottingham
-    date_start: 2021-09-01
-    date_end: 2022-12-31
-    summary: |
-      主要研究AI技术在金融最优化控制方向的应用以及图神经网络（GNN）在风险传染方向上的应用。在期间，与导师共同完成了图网络在银行金融拆借风险间的网络传染模型。
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: BSc Math And Applied Mathematics
     institution: 上海财经大学
     date_start: 2017-09-01
