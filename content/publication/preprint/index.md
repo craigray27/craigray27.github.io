@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: ""
 authors:
 - 雷志远
 - 王亚岚
@@ -41,7 +41,6 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:[]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
