@@ -1,5 +1,5 @@
 ---
-title: (正) 倒向随机微分方程组的参数估计及其应用
+title:(正) 倒向随机微分方程组的参数估计及其应用
 And Its Application In Neural Network'
 
 # Authors
