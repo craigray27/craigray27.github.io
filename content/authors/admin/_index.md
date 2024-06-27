@@ -50,7 +50,7 @@ education:
     summary: |
       GPA: 3.2/4.0
       
-     核心课程:
+     Courses included:
       - Optimization, Numerical Computation
       - Financial Stochastic Processes，Econometrics
       - Coding, Big Data, Machine Learning
