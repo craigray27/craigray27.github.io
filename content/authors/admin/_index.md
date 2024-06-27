@@ -52,6 +52,7 @@ education:
     date_end: 2021-07-01
     summary: |
       GPA: 3.2/4.0
+    
       Courses included:
       - Optimization, Numerical Computation
       - Financial Stochastic Processes, Econometrics
@@ -131,6 +132,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: '2020年高教社杯全国大学生数学建模竞赛本科组一等奖'
+    url:/static/uploads/Model_competition.pdf
     certificate_url: http://www.mcm.edu.cn/upload_cn/node/593/ejsYC2sWca14e3b34ac748d4862444af0c44d1fd.pdf
     date: '2019-11-23'
     awarder: 中国工业与应用数学学会
