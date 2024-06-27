@@ -40,7 +40,7 @@ education:
   - area: MSc Finance And Computing Mathematics
     institution: University Of Nottingham
     date_start: 2021-09-01
-    date_end: 2022-12-31
+    date_end: 2023-3-31
     summary: |
       主要研究AI技术在金融最优化控制方向的应用以及图神经网络（GNN）在风险传染方向上的应用。在期间，在导师Reuben O'dea的指导下共同完成了图网络在银行金融拆借风险间的网络传染模型。
     button:
@@ -84,7 +84,7 @@ work:
     date_end: 2021-06-30
     summary: |
       Responsibilities include:
-      -   协助证券分析师收集锂电池相关行业、国债期权相关数据并撰写行业报告，期间曾独立完成绿色国债期权市场的调研报告。
+      -   协助证券分析师收集养老相关行业、国债期权相关数据并撰写行业报告，期间曾独立完成绿色国债期权市场的调研报告。
       -   协助基金经理更正、维护量化模型，期间参与协方差矩阵估计模型的更新（采用当时新的贝叶斯估计方法）。
       -   协助基金经理维护客户。
 
