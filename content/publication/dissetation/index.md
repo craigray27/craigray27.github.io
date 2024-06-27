@@ -1,5 +1,5 @@
 ---
-title: 'Complex Network Of Interbank Market
+title: (正) 倒向随机微分方程组的参数估计及其应用
 And Its Application In Neural Network'
 
 # Authors
@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2022-07-01T00:00:00Z'
+date: '2021-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ abstract:  本文主要介绍了 N-WR 估计方法、LPR 估计方法、Jiang-Kn
 summary: 使用非参数方法估计一般的倒向随机微分方程，并给出其在期权理论价格上的应用。
 
 tags:
-  - Graph Neural Networks Models
+  - Non-Parameter Estimation
 
 # Display this page in the Featured widget?
 featured: true
@@ -43,11 +43,9 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/craigray27/netwok.git'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/craigray27/netwok.git'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
