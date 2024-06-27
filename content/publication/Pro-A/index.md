@@ -1,6 +1,5 @@
 ---
-title: 'Complex Network Of Interbank Market
-And Its Application In Neural Network'
+title: 'Applying the Monte Carlo Technique to Option Pricing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
