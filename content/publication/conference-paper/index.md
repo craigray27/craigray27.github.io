@@ -26,7 +26,15 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The Interbank market is an essential part of the modern financial system. Complex interbank
+networks are formed by inter-bank lending, payment and settlement, discount and guarantee.
+On the one hand, banks’ networks do provide channels for interbank exchanges. However,
+the exchange of the interbank liquidity assets also make banks in danger, the inter-bank
+lending behaviour become potential paths for risk contagion when defaults occur, and those
+defaults may cause a domino effect. Terefore, it is necessary to analyze the structure of the
+interbank network and mechanism of risk contagion. Consequently, I will concentrates on
+the characteristics of the structure of interbank network, the mechanism of interbank risk
+contagion and how to do the risk prediction in this report.
 
 # Summary. An optional shortened abstract.
 summary: 使用带随机过程的SIRs模型模拟金融风险在银行间拆借网络上的传播情况，并使用GNN学习网络结构，提示风险聚集。
