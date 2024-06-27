@@ -1,20 +1,19 @@
 ---
-title: 'Complex Network Of Interbank Market
-And Its Application In Neural Network'
+title: '云南省“一村一品”发展研究'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhiyuan Lei
-  - Reuben O'dea
+  - 雷志远
+  - 王梦
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2022-07-01T00:00:00Z'
+date: '2024-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,16 +25,15 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 
-abstract:  Complex interbank networks are formed by inter-bank lending, payment and settlement, discount and guarantee. On the one hand, banks’ networks do provide channels for interbank exchanges. However, the exchange of the interbank liquidity assets also make banks in danger, the inter-bank lending behaviour become potential paths for risk contagion when defaults occur, and those defaults may cause a domino effect. Terefore, it is necessary to analyze the structure of the interbank network and mechanism of risk contagion. Consequently, I will concentrates on the characteristics of the structure of interbank network, the mechanism of interbank risk contagion and how to do the risk prediction in this report.
-
+abstract:  以全云南省“一村一品”调查的数据，利用AHP-TOPSIS方法对“一村一品”发展情况进行分析判断，构建各村“一村一品”发展成效评价指标体系，计算其指标值，定性与定量结合得分析评价结果，并利用各村的结果映射后得到各县、市的得分。运用Dagum基尼系数评估大理州各县的发展差异，并利用PSM-DID模型、SLM模型发现在“一村一品”发展过程中存在的产业集聚效应。
 # Summary. An optional shortened abstract.
-summary: 使用带随机过程的SIRs模型模拟金融风险在银行间拆借网络上的传播情况，并使用GNN学习网络结构，提示风险聚集。
+summary: 使用AHP-TOPSIS, Dagum Gini, SLM模型对云南省“一村一品”发展现状进行建模。
 
 tags:
-  - Graph Neural Networks Models
+  - Report
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -43,11 +41,11 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/craigray27/netwok.git'
+url_code: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/craigray27/netwok.git'
+url_source: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -57,8 +55,7 @@ url_source: 'https://github.com/craigray27/netwok.git'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects:[]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
