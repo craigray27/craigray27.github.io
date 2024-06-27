@@ -52,14 +52,14 @@ education:
     date_end: 2021-07-01
     summary: |
       GPA: 3.2/4.0
+    button:
+      text: 'Read Thesis'
+      url: /publication/dissetation/
       
       Courses included:
       - Optimization, Numerical Computation
       - Financial Stochastic Processes, Econometrics
       - Coding, Big Data, Machine Learning
-      button:
-      text: 'Read Thesis'
-      url: /publication/dissetation/
 
 work:
   - position: 数据分析组组长
