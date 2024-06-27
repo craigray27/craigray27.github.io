@@ -5,7 +5,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2023-012-01T00:00:00Z"
+date: "2023-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ abstract: 报告给出了对青海省2023年到2027年失业保险收支的精�
 summary: 使用随机分析、宏观经济模型对青海省失业保险基金2024年-2027年的收入、支出做出预测。所有数据均公开，涉密数据报告中将不予展示。
 
 tags:
-- Source Themes
+- Report
 featured: false
 
 # links:
