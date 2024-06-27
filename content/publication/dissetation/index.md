@@ -1,5 +1,6 @@
 ---
-title:'(正)倒向随机微分方程组的参数估计及其应用'
+title: 'Complex Network Of Interbank Market
+And Its Application In Neural Network'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
