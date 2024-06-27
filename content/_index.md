@@ -32,14 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 About me & My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+           我是云南明博会计师事务所的一名数据分析师，主要聚焦于机器学习、大数据。我主要研究图神经网络在现实中的应用以及各项经济生活中的最优化问题。当然，对于研究现实问题，进行数据建模都在我的工作范围内啦。😃
     design:
       columns: '1'
   - block: collection
