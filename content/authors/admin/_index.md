@@ -54,9 +54,9 @@ education:
       GPA: 3.2/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Optimization, Numerical Computation
+      - Financial Stochastic Processes, Econometrics
+      - Coding, Big Data, Machine Learning
 
 work:
   - position: 数据分析组组长
