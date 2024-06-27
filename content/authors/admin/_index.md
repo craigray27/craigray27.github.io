@@ -132,9 +132,9 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: '2020年高教社杯全国大学生数学建模竞赛本科组一等奖'
-    url: uploads/Model_competition.pdf
+    url: /uploads/Model_competition.pdf
     certificate_url: http://www.mcm.edu.cn/upload_cn/node/593/ejsYC2sWca14e3b34ac748d4862444af0c44d1fd.pdf
-    date: '2019-11-23'
+    date: '2020-11-23'
     awarder: 中国工业与应用数学学会
     summary: |
        使用热传导方程，热辐射方程对加工工件内部温度变化进行建模，依据建模的数值结果绘出温度曲线，由于工件的特性，对工件在升温室、冷却室的最优时间长度进行求解，并由此来决定最优的传送带运行速度，实现数字化管控。
