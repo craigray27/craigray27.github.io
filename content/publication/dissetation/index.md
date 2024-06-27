@@ -1,5 +1,5 @@
 ---
-title:'(正) 倒向随机微分方程组的参数估计及其应用'
+title:'(正)倒向随机微分方程组的参数估计及其应用'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
