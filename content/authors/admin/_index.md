@@ -26,7 +26,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'eugray@hotmail.com'
+    url: 'mailto:eugray@hotmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/craigray27
@@ -55,7 +55,7 @@ education:
       
      Courses included:
       - Optimization, Numerical Computation
-      - Financial Stochastic Processes，Econometrics
+      - Financial Stochastic Processes, Econometrics
       - Coding, Big Data, Machine Learning
 work:
   - position: 数据分析组组长
