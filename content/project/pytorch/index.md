@@ -1,13 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: NLP&Bayesian Neural Network.
+date: 2023-01-26
 external_link: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - word2Vec
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+基于word2Vec设计的自然语言模型，并将词向量应用在在下游的贝叶斯神经网络中.
 
 <!--more-->
