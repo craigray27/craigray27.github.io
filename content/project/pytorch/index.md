@@ -1,7 +1,7 @@
 ---
 title: NLP&Bayesian Neural Network.
 date: 2023-01-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://github.com/craigray27/word2Vec.git
 tags:
   - word2Vec
 ---
