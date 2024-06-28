@@ -7,6 +7,6 @@ tags:
   - PDEs
   - Solar Sysytem，Universe
 ---
-
+使用C++创建Virtual class求解可观测宇宙天体运行轨迹。
 
 <!--more-->
