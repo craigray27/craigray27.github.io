@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Trajectories of Planet
+date: 2022-10-01
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - C++
+  - PDEs
+  - Solar Sysytem，Universe
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
 
 <!--more-->
