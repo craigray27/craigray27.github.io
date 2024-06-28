@@ -1,7 +1,7 @@
 ---
 title: scikit-learn
 date: 2020-07-01
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://github.com/craigray27/Numerical_Computation.git
 tags:
   - non-linear function
   - PDE
