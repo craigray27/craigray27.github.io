@@ -73,17 +73,17 @@ work:
       -   从事数据分析相关工作，包括数据清洗、建模、可视化展示并撰写数据分析报告、数据入库等。
       -   参与建立青海省失业保险基金收入、支出的预测模型，采用随机分析、金融计量、宏观经济模型等手段预测2024年到2027年青海省人口、GDP、城镇失业率、城镇就业人口、失业保险基金参保人数、缴纳金额、失业保险金发放金额、失业补助金、医疗补助金等参数，最后达到科学规划预算的目的。数据量：1100万上下。
     button:
-      text: 'Read Report'
+      text: 'Read Thesis'
       url: /publication/dissetation/
 
       -   参与建立贵州省工信厅工业与信息化发展专项基金补助企业最优补贴率模型的建立，采用带正则项的PSM-DID模型；DEA-SVC模型；Game Theory-Optimization模型，对不同的行业的不同规模项目的最优补助金额（最优补贴率）进行建模，方便未来的资金规划。
     button:
-      text: 'Read Report'
+      text: 'Read Thesis'
       url: /publication/dissetation/
 
       -   参与云南省“一村一品”绩效评价项目，对全省1352个自然村的“一村一品”建设成果进行评价分析，依据行业的不同，使用AHP-Topsis-Reflection方法对目标的特征向量进行赋权评价，再依据评价的数值结果使用Dagum-Gini进行差异分析。最后，使用空间SLM模型分析全云南省的“一村一品”产业分布结构与空间集聚效应。
     button:
-      text: 'Read Report'
+      text: 'Read Thesis'
       url: /publication/dissetation/
 
       -   负责数据库（ORACLE）的搭建与日常运维，架构大数据系统Hadoop+Spark。
