@@ -24,8 +24,7 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 
-abstract:  
-对贵州省文化旅游发展基金历年投资企业进行分析，根据企业财务数据训练神经网络（LSTM+KAN）预测被投企业未来产生的分红收益，评估基金收益率、现金流、净值、内部收益率等指标，并对未来基金投资方向做出建议。
+abstract:  对贵州省文化旅游发展基金历年投资企业进行分析，根据企业财务数据训练神经网络（LSTM+KAN）预测被投企业未来产生的分红收益，评估基金收益率、现金流、净值、内部收益率等指标，并对未来基金投资方向做出建议。
 # Summary. An optional shortened abstract.
 summary: 基金投资，神经网络，KAN，现金流，分红
 tags:
