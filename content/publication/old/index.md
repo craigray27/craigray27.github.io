@@ -1,5 +1,5 @@
 ---
-title: '青海省城乡居民'
+title: '青海省城乡居民养老保险精算模型'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
