@@ -1,5 +1,5 @@
 ---
-title: '贵州省龙头企业与新增规模以上企业产业链研究'
+title: '青海省城乡居民'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,7 +12,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-08-01T00:00:00Z'
+date: '2024-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -24,9 +24,9 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 
-abstract:  根据历年贵州省工业龙头企业、新增规模以上企业财务数据数据，利用图网络构建贵州省工业企业上下游产业链条，捕捉图网络的流通方向，使用KAN+LSTM神经网络训练图嵌入，并找出薄弱产业环节并提出补强建议。
+abstract:  对青海省2024年到2027年城乡居民养老保险基金缴纳人数、领取人数、年龄构成比例、预期寿命、每年死亡人数等重要参数进行数学建模。并最终给出了精算模型在2023年到2027年对养老保险收支的预测结果。
 # Summary. An optional shortened abstract.
-summary: 专项资金投资，神经网络，KAN，图网络，产业链
+summary: 养老保险，精算，预期寿命，大数据
 tags:
   - Report
 
