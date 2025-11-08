@@ -24,8 +24,7 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 
-abstract:  
-根据历年贵州省工业龙头企业、新增规模以上企业财务数据数据，利用图网络构建贵州省工业企业上下游产业链条，捕捉图网络的流通方向，使用KAN+LSTM神经网络训练图嵌入，并找出薄弱产业环节并提出补强建议。
+abstract:  根据历年贵州省工业龙头企业、新增规模以上企业财务数据数据，利用图网络构建贵州省工业企业上下游产业链条，捕捉图网络的流通方向，使用KAN+LSTM神经网络训练图嵌入，并找出薄弱产业环节并提出补强建议。
 # Summary. An optional shortened abstract.
 summary: 专项资金投资，神经网络，KAN，图网络，产业链
 tags:
